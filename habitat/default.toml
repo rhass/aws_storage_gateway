@@ -1,0 +1,3 @@
+[http]
+standard_port = 80
+alt_port = 8080
